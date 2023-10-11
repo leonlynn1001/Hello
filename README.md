@@ -1,5 +1,6 @@
 
 <a name="readme-top"></a>
+A simple project with one heading to practice git commands
 
 <!--
 !!! IMPORTANT !!!
